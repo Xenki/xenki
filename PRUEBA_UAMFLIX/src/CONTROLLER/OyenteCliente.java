@@ -5,7 +5,7 @@
 //consultar pagos//
 package CONTROLLER;
 
-import GUIS.Cliente_contenidoMultimedia;
+//import GUIS.Cliente_contenidoMultimedia;
 import VIEW.Documental;
 import VIEW.Pelicula;
 import VIEW.Serie;
